@@ -20,3 +20,8 @@ h1 {
     width: 15rem;
     height: 10rem;
 }
+
+#result {
+    color: darkmagenta;
+    background-color: darkorange;
+}
