@@ -1,0 +1,22 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
+    padding: 5rem;
+    flex-direction: column;
+}
+
+
+h1 {
+    color:brown;
+    font-family: sans-serif;
+}
+#button {
+    color: #2814dc;
+    background: #8b3800;
+    width: 15rem;
+    height: 10rem;
+}
