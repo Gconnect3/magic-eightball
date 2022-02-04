@@ -11,14 +11,17 @@ body {
 
 
 h1 {
-    color:brown;
+    color:black;
     font-family: sans-serif;
+    font-weight: 300;
 }
 #button {
+    font-size: 2rem;
     color: #2814dc;
-    background: #8b3800;
-    width: 15rem;
-    height: 10rem;
+    border: .2rem solid black;
+    border-radius: 2.5rem;
+    width: 10rem;
+    height: 5rem;
 }
 
 #result {
