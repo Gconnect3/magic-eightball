@@ -1,2 +1,2 @@
 # magic-eightball
-tell you future, is it going to be happening? who knows!
+tell you future, is it going to happen? who knows!
